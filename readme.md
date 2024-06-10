@@ -1,4 +1,14 @@
 # MultiFG
+
+## Requirements  
+**python version: 3.7.1**   
+**rdkit version: 2023.03.2**  
+**torch version: 1.13.1+cpu**  
+**dgl version: 2.0.0**  
+**numpy version: 1.21.5**  
+**pandas version: 1.3.5**  
+**pubchempy version: 1.0.4**  
+**dgllife version: 0.3.2**   
 ## File Description  
 dataset: Folder containing datasets.  
 result: Folder for saving analysis results.  
