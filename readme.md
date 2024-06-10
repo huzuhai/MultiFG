@@ -27,4 +27,6 @@ restore_compressed_files.ipynb: Used to restore our processed files (data6, PPS,
 [Predicting the Frequencies of drug side effects](https://github.com/paccanarolab/Side-effect-Frequencies "Predicting the Frequencies of drug side effects")   
 [A novel graph attention model for predicting frequencies of drug–side effects from multi-view data](https://github.com/zhc940702/MGPred "A novel graph attention model for predicting frequencies of drug–side effects from multi-view data")   
 [DSGAT: predicting frequencies of drug side effects by graph attention networks](https://github.com/xxy45/DSGAT "DSGAT: predicting frequencies of drug side effects by graph attention networks")  
-[An Efficient Implementation of Kolmogorov-Arnold Network](https://github.com/Blealtan/efficient-kan "An Efficient Implementation of Kolmogorov-Arnold Network")
+[An Efficient Implementation of Kolmogorov-Arnold Network](https://github.com/Blealtan/efficient-kan "An Efficient Implementation of Kolmogorov-Arnold Network")  
+## Contact
+If you have any questions or suggestions with this work, please let us know. Contact *Zuhai hu* at 2022120774@stu.cqmu.edu.cn
