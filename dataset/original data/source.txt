@@ -1,0 +1,8 @@
+序号 文件 来源
+1 Supplementary Data 1.txt https://doi.org/10.1038/s41467-020-18305-y
+2 Supplementary Data 4.txt https://doi.org/10.1038/s41467-020-18305-y
+3 side_effect.csv doi: 10.1093/bib/bbab239
+4 full database.xml download from drugabnk(需要自己下载)
+5 drug_SMILES.xlsx doi: 10.1093/bib/bbab239
+6 DAG_copy.ipynb doi: 10.1093/bib/bbab239(原始文件DAG.py)
+7 ADR_Drug.xlsx doi: 10.1093/bib/bbab239
