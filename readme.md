@@ -15,6 +15,8 @@ We propose a new model called MultiFG to predict the associations and frequency 
  * data_process.ipynb: Code for processing and merging datasets from previous research.
  * adr.csv.gz, drug.csv.gz: Our compiled datasets.
  * restore_compressed_files.ipynb: Code to restore compressed files to model data.
+
+
 2.pre-trained graph model: Pre-trained graph models.
 3.result: Folder for saving analysis results.
 4.utils, utils_data: Various utility functions and tools.
