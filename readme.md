@@ -16,11 +16,14 @@ We propose a new model called MultiFG to predict the associations and frequency 
  * adr.csv.gz, drug.csv.gz: Our compiled datasets.
  * restore_compressed_files.ipynb: Code to restore compressed files to model data.
 
-
 2.pre-trained graph model: Pre-trained graph models.
+
 3.result: Folder for saving analysis results.
+
 4.utils, utils_data: Various utility functions and tools.
+
 5.run.py: Main code for model training, evaluation, etc.
+
 6.Four gin files: Pre-trained GIN models used to obtain molecular graph embedding features, sourced from the dgllife module.
 ## Run
 filename: Input file.
