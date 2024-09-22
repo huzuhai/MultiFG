@@ -30,7 +30,7 @@ epoch: Number of epochs.
 
 Example:
 ```bash
-python run.py -f data.csv -b 32 -s 128 -l 0.001 -w 0.5 0.3 0.7 -e 10 20 30
+python run.py -f ./dataset/analysis_data.csv -b 32 -s 128 -l 0.001 -w 0.5 0.3 0.7 -e 10 20 30
 ```
 ## Links    
 [Predicting the Frequencies of drug side effects](https://github.com/paccanarolab/Side-effect-Frequencies "Predicting the Frequencies of drug side effects")   
